@@ -9,10 +9,10 @@
 This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios. 
 
 ## Screenshot
-<img src="https://raw.githubusercontent.com/Owiti-Charles/Delani-Studio/master/images/delanihome.png" width="900px" height="440px">
+<img src="https://raw.githubusercontent.com/daonyango/Delani-Studio/master/images/delanihome.png" width="900px" height="440px">
 
 ## Live Page 
-https://Owiti-charles.github.io/Delani-Studio 
+https://daonyango.github.io/Delani-Studio/
 
 
 ## Installation / Setup instruction
